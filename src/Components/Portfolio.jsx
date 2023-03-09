@@ -31,28 +31,25 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "My startup product with its features(Github & preview images included)🎉",
+    description: "My project blog of Web Apps and tooling I used to get started.",
+    url: "https://cosmoclaw.com/2023/03/cosmominds-web-application/",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "Blogging for exploring  & helping student resourses ",
+    description: "Our startup cosmoclaw's blog page.",
+    url: "https://www.cosmoclaw.com/",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "My LinkedIn page",
+    description: "Have look at my Linkedin profile to know how I build my portfolio in Linkein.",
+    url: "https://www.linkedin.com/in/satwik-loka-080b651aa",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Youtube Channel",
     description:
       "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    url: "https://www.youtube.com/@collegebro411",
   },
 ];
 
